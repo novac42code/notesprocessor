@@ -1,2 +1,3 @@
 # notesprocessor
-process knowledge notes in a programmatic way. 
+This tool process knowledge notes in a programmatic way. 
+
